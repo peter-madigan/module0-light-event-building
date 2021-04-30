@@ -2,6 +2,8 @@
 
 This is a script for creating an event-built light hdf5 file that can be associated with charge data.
 
+Takes as input the timestamp corrected ROOT format created by [https://github.com/peter-madigan/ADCViewer64-Module0].
+
 ## Install
 
 Install via `pip`::
